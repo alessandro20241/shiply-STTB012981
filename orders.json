@@ -1,0 +1,43 @@
+{
+  "STTB012981": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Erik Lerby, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Leon Willem Kurvers, Tapuitstraat 5, 2872 AB Schoonhoven, Niederlande",
+    "price": "7.200 €",
+    "description": "Hersteller: Triumph <br>Typ: Bonneville T120 <br>Fahrgestelnummer: SMTD40HL2LTAA1381 <br>Erstzulassung: 03/2020 <br>TÜV 02/2028 <br> KM laut Vorbesitzer: 2817  km <br>Leistung: 59 kW (80 PS) <br>Hubraum: 1200 cm³<br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Bezitser 1 <br> Viele Extras; Originalteile vorhanden <br> Deutsche Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Leon Willem Kurvers<br>Tapuitstraat 5<br> 2872 AB Schoonhoven <br> Niederlande <br>Telefon: +31646767475",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "22-04-2026",
+    "deliveryDate": "30-04-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Tapuitstraat 5",
+      "postal_code": "2872 AB",
+      "city": "Schoonhoven",
+      "country": "Niederlande"
+    }
+  }
+}
